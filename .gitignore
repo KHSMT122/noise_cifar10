@@ -1,0 +1,11 @@
+# cache
+__pycache__
+
+# normal dir
+weight_model
+
+# images
+*.png
+
+# logs
+logs
